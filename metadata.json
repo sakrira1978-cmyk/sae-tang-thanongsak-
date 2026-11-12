@@ -1,0 +1,6 @@
+{
+  "name": "สแกนพระหล่อ",
+  "description": "แอปพลิเคชันสแกนและตรวจสอบพระหล่อโบราณยอดนิยมด้วยระบบ AI อัจฉริยะ วิเคราะห์คราบเบ้า รอยตะไบ ยุบตัว เนื้อสัมฤทธิ์ทองผสม และตำหนิพิมพ์ทรง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
